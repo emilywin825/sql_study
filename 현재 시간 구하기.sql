@@ -1,0 +1,4 @@
+select 
+	now()
+from 
+	dual;
